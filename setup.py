@@ -6,6 +6,6 @@ setup(name='camillepkg',
       author='camille',
       author_email='cgirabawe@gmail.com',
       license='MIT',
-      packages=['camillepkg'],
+      packages=setuptools.find_packages(),
       zip_safe=False
       )

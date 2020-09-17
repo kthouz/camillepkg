@@ -1,1 +1,1 @@
-from dependencies import hello
+from .dependencies import hello
